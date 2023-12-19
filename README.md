@@ -3,7 +3,7 @@ Sequences, Time Series and Prediction
 # References
 This is a compilation of resources appearing in the lecture videos, ungraded labs, and assignments.
 
-Week 1:
+# Week 1:
 
 Moore's Law
  (Wikipedia)
@@ -32,7 +32,7 @@ Pyplot
 Keras Metrics
  (Official Website)
 
-Week 2:
+# Week 2:
 
 tf.data API
  (TF Documentation)
@@ -46,7 +46,7 @@ Flatten a dataset of windows
 LearningRateScheduler
  (TF Documentation)
 
-Week 3:
+# Week 3:
 
 Huber Loss
  (Wikipedia)
@@ -66,7 +66,7 @@ LSTM
 LSTM Layer
  (TF Documentation)
 
-Week 4:
+# Week 4:
 
 Convolutional Neural Networks
  (DeepLearning.AI)
